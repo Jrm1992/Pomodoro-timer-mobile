@@ -1,17 +1,19 @@
 <br />
   <p align="center">
-    <img src="github\pomodoro-1.png">
+    <img src="github\layout.png">
        <br />
     <br />
   </p>
  
 
-  # Techs:
+## Techs
 
-   ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) <br /><br />
-   ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) <br /><br />
-   ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) <br /><br />
-   ![image](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) <br /><br />
+- [React](https://reactjs.org)
+- [React Native](https://reactnative.dev)
+- [TypeScript](https://www.typescriptlang.org)
+- [Expo](https://expo.dev)
+- [React Navigation](https://reactnavigation.org)
+- [Native Base](https://nativebase.io)
 
 
 # Autor:

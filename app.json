@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "pomodoro",
+    "owner": "jose1992",
+    "slug": "pomodoro",
+    "version": "1.0.1",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+}
+}
